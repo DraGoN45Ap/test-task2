@@ -1,0 +1,6 @@
+main\entity\OperationDTO.class
+main\entity\SumByPointOfSale.class
+main\entity\SumByDate.class
+main\Main.class
+main\service\OperationService.class
+main\entity\AbstractSumDTO.class
